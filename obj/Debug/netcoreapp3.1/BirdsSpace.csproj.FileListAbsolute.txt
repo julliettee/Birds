@@ -1,0 +1,13 @@
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\bin\Debug\netcoreapp3.1\BirdsSpace.exe
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\bin\Debug\netcoreapp3.1\BirdsSpace.deps.json
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\bin\Debug\netcoreapp3.1\BirdsSpace.runtimeconfig.json
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\bin\Debug\netcoreapp3.1\BirdsSpace.runtimeconfig.dev.json
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\bin\Debug\netcoreapp3.1\BirdsSpace.dll
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\bin\Debug\netcoreapp3.1\BirdsSpace.pdb
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\obj\Debug\netcoreapp3.1\BirdsSpace.csprojAssemblyReference.cache
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\obj\Debug\netcoreapp3.1\BirdsSpace.AssemblyInfoInputs.cache
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\obj\Debug\netcoreapp3.1\BirdsSpace.AssemblyInfo.cs
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\obj\Debug\netcoreapp3.1\BirdsSpace.csproj.CoreCompileInputs.cache
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\obj\Debug\netcoreapp3.1\BirdsSpace.dll
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\obj\Debug\netcoreapp3.1\BirdsSpace.pdb
+C:\Users\Юля\RiderProjects\BirdSpace\BirdsSpace\obj\Debug\netcoreapp3.1\BirdsSpace.genruntimeconfig.cache
